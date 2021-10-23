@@ -1,0 +1,31 @@
+
+  ========== J S ===============
+
+
+1 .length();
+2 .push(); ==> append in the aaray
+3 .pop();
+4 .shift(); ==> pops first element
+5 .unshift(); ==> adds element at starting of array
+6 JSON.stringify(Arr); ==> converts array to string to print out on consol
+7 3 == '3'
+ [it does type conversion]
+ it gives true as they are converted to either string or number
+8 3 === '3' it gives false 
+
+
+
+
+
+***** if (condition to be checked ){
+	after condition satisfy;
+}
+
+****** if we want to make a variable gobal variable within a function dont add var keyword in front of it
+
+
+****** condition ? statement-if-true : statement-if-false;
+
+
+
+
